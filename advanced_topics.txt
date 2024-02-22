@@ -1,0 +1,4 @@
+1. Modules, import, export - 
+2. Array, Object methods - 
+3. Asynchronous js - yes
+4. DOM Manipulation - yes
